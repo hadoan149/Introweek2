@@ -5,4 +5,4 @@
 - 🌱 &nbsp; 23 years old 
 - 🚀 &nbsp; from Vietnam
 
-[ samir ] (https://github.com/hadoan149/Introweek2/blob/main/LICENSE)
+[ samir ](https://github.com/hadoan149/Introweek2/blob/main/LICENSE)
